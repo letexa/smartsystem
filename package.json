@@ -1,0 +1,23 @@
+{
+  "name": "smart-system",
+  "version": "1.0.0",
+  "description": "Testing task",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letexa/smartsystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letexa/smartsystem/issues"
+  },
+  "homepage": "https://github.com/letexa/smartsystem#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.14.7"
+  }
+}
